@@ -1,0 +1,134 @@
+[
+  {
+    "id": "TV001LG",
+    "name": "LG C2 42 (106cm) 4K SMART OLED EVO TV | WEBOS | CINEMA HDR",
+    "Images": [
+      {
+        "item": "img1",
+        "src": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/u/a/k/oled65c2psc-lg-original-imaggyy6jvwbhc9h.jpeg?q=70"
+      },
+      {
+        "item": "img2",
+        "src": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/p/7/6/oled65c2psc-lg-original-imaggyy6kdxmcxyh.jpeg?q=70"
+      },
+      {
+        "item": "img3",
+        "src": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/p/5/z/oled65c2psc-lg-original-imaggyy6e38rfggg.jpeg?q=70"
+      },
+      {
+        "item": "img4",
+        "src": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/i/c/i/oled55c24la-lg-original-imaggyy5pnxfz3vm.jpeg?q=70"
+      }
+    ],
+    "brand": "LG",
+    "model": "OLED42C2PSA",
+    "stock": 2,
+    "mode": "In Stock",
+    "originalPrice": 800.0,
+    "listPrice": 600.72,
+    "description": [
+      " α9 Gen5 AI Processor with AI Picture Pro & AI 4K Upscaling ",
+      "Pixel Dimming, Perfect Black, 100% Color Fidelity & Color Volume",
+      " Hands-free Voice Control, Always Ready ",
+      "Dolby Vision IQ with Precision Detail, Dolby Atmos, Filmmaker Mode ",
+      "Eye Comfort Display: Low-Blue Light, Flicker-Free"
+    ],
+    "skuOptions": [
+      "106 cm (42)",
+      "121 cm (48)",
+      "139 cm (55)",
+      "164 cm (65)",
+      "196 cm (77)",
+      "210 cm (83)"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "TV002SAMSUNG",
+    "name": "Samsung QLED Q60A 42 (106cm) 4K SMART QLED TV | Tizen OS | HDR10+",
+    "Images": [
+      {
+        "item": "img1",
+        "src": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/x/8/a/-original-imagttjpuyzsbzud.jpeg?q=70"
+      },
+      {
+        "item": "img2",
+        "src": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/b/r/k/-original-imagkw6yq62ummfq.jpeg?q=70"
+      },
+      {
+        "item": "img3",
+        "src": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/6/5/a/-original-imagkw6yzcuu5swg.jpeg?q=70"
+      },
+      {
+        "item": "img4",
+        "src": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/b/s/r/-original-imagkzctfgqkbzff.jpeg?q=70"
+      }
+    ],
+    "brand": "Samsung",
+    "model": "QLED42Q60A",
+    "stock": 5,
+    "mode": "In Stock",
+    "originalPrice": 850.0,
+    "listPrice": 699.99,
+    "description": [
+      "Quantum Dot Technology for Vibrant Colors",
+      "Motion Rate 120 for Smooth Action",
+      "Ambient Mode+ for Personalized Backgrounds",
+      "Voice Assistant - Bixby, Alexa, Google Assistant",
+      "Multi-View for Simultaneous Content Viewing"
+    ],
+    "skuOptions": [
+      "106 cm (42)",
+      "121 cm (48)",
+      "139 cm (55)",
+      "164 cm (65)",
+      "196 cm (77)",
+      "210 cm (83)"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "TV003SONY",
+    "name": "Sony BRAVIA XR A80J 42 (106cm) 4K SMART OLED TV | Google TV | IMAX Enhanced",
+    "Images": [
+      {
+        "item": "img1",
+        "src": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/6/g/p/-original-imagvgcjagmhmxfz.jpeg?q=70"
+      },
+      {
+        "item": "img2",
+        "src": "https://rukminim2.flixcart.com/image/416/416/l3929ow0/television/4/e/2/kd-65x75k-in5-sony-original-imagef3zzceyutpz.jpeg?q=70"
+      },
+      {
+        "item": "img3",
+        "src": "https://rukminim2.flixcart.com/image/416/416/l3929ow0/television/r/r/c/kd-43x74k-in5-sony-original-imagef43469gdnnd.jpeg?q=70"
+      },
+      {
+        "item": "img4",
+        "src": "https://rukminim2.flixcart.com/image/416/416/l3929ow0/television/w/s/o/kd-43x74k-in5-sony-original-imagef43k6fqgmyh.jpeg?q=70"
+      }
+    ],
+    "brand": "Sony",
+    "model": "A80J42OLED",
+    "stock": 3,
+    "mode": "In Stock",
+    "originalPrice": 900.0,
+    "listPrice": 799.99,
+    "description": [
+      "Cognitive Processor XR for Realism",
+      "XR Triluminos Pro for Lifelike Colors",
+      "Acoustic Surface Audio+ for Immersive Sound",
+      "Google TV for Easy Content Discovery",
+      "IMAX Enhanced for Enhanced Movie Experience"
+    ],
+    "skuOptions": [
+      "106 cm (42)",
+      "121 cm (48)",
+      "139 cm (55)",
+      "164 cm (65)",
+      "196 cm (77)",
+      "210 cm (83)"
+    ],
+    "rating": 4.8
+  }
+]
