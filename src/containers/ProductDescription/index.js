@@ -3,7 +3,9 @@ import { connect } from "react-redux";
 import StarRatings from "react-star-ratings";
 import { useParams } from "react-router-dom";
 
-import { fetchProductById } from "../redux/actions";
+import { fetchProductById } from "../../redux/actions";
+import Banner from "./Banner";
+import Tabs from "./Tabs";
 
 const ProductPage = ({ fetchProductById, Product }) => {
   const { productId } = useParams();
@@ -19,14 +21,7 @@ const ProductPage = ({ fetchProductById, Product }) => {
   }
   return (
     <div className="flex flex-col items-center justify-between px-6 lg:px-24">
-      <div className="flex flex-col justify-center items-center w-screen h-36 lg:h-64 bg-gray-100 mb-10 lg:mb-20">
-        <p className="text-zinc-900 text-2xl lg:text-4xl text-center pb-4 uppercase">
-          TV Collection
-        </p>
-        <p className="text-zinc-900 text-base lg:text-lg text-center font-extralight  uppercase tracking-widest">
-          Home / Product / Tv Collection
-        </p>
-      </div>
+      <Banner />
       <div className="flex flex-col justify-between lg:flex-row gap-6 lg:gap-0">
         <div className="flex flex-col lg:flex-row flex-1 gap-6 lg:gap-0">
           <div className="flex flex-row lg:flex-col gap-8 order-2 lg:order-1 overflow-scroll thumbnails">
@@ -194,6 +189,7 @@ const ProductPage = ({ fetchProductById, Product }) => {
           </div>
         </div>
       </div>
+      <Tabs />
     </div>
   );
 };
